@@ -14,7 +14,7 @@
   ---
   
 ### **Currently working on :**
-[ddubb.io official link](http://ddubb.io) core structure. View the progress for the site on github here: [ddubb.io github repo](http://www.github.com/mta63089/ddubb-io))
+[ddubb.io official link](http://ddubb.io) core structure. View the progress for the site on github here: [ddubb.io github repo](http://www.github.com/mta63089/ddubb-io)
  
   
 </div>
