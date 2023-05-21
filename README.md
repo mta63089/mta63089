@@ -1,20 +1,37 @@
-<div align=center>
+
   
-# 🖱️ Welcome to my safe space
-  
+## 🖱️ Welcome to my safe space ⌨️
   
   ---
   
-## **Who is Michael Albert?**
-  🧔 🎉 big enthusiast of being a part of the community and exploring new tech through multiple different lenses with a large emphasis on test automation and QA. I think being a well rounded engineer is important by learning up and coming technologies as well as maintaining skills in different parts of an application. Some of my future goals in tech are to get more familiar with using next.js's more advanced features that are not just simple cli or ui commands. It feels like cheating for some reason. I'll be posting various works of technical blogs as well as blogs focused on working in tech with adhd and how to not overwork yourself but stay productive, small web apps as learning tools and to showcase my creativity, vs-code extensions, chrome extensions, and when I can lower my ambition a little I would like to polish up and post some games as well.
+### **Who dis?**  
   
-  
+
+*I'm still finding out more and more every day. An independent thinker, conflicting in many ways both pessimistic and and idealist. I like to let it all out in any way possible whether it be through coding front end  
+work or back end work or planning architecture or discovering the magic of AI and python. I also like painting and never gave myself credit enough to show that side to others but it feels good so why not?  
+  I love creating with authenticity.  
+    looking to build something great.  
+      always looking for.  
+        a great.  
+          cause*  
+            👻 👻 👻
   ---
   
   ---
   
 ### **Currently working on :**
-[ddubb.io official link](http://ddubb.io) core structure. View the progress for the site on github here: [ddubb.io github repo](http://www.github.com/mta63089/ddubb-io)
- 
+    
+  ---
+    
   
+  [***d d u b b***](https://ddubb.net) 🥠 🤬  🥉  🔋  💼  💻  ⏰  😱 [*Repo*](http://www.github.com/ddubb-io/ddubb-net)  
+  
+  ***Private AI Project with langchain*** - to be implemented as part of the ddubb platform as it gets close to completion
+  ***triPPybits*** - an artistic outlet for those who feel that they are or arent traditionally 'artistic'
+  ***Private development project*** Building a custom component library and frontend with a team of great folks for a client.
+
+
+Limited availability for freelance work.
+[**Contact me**](mailto:Michael.Albert89@outlook.com)
+
 </div>
