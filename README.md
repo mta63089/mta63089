@@ -18,7 +18,7 @@
                                                        </h4>
                                                        <h5>
                                                                   <strong>
-                                                                             Check out what i'm messing around with currently here:
+                                                                             Check out what i'm messing around with currently 
                                                                              <a href="https://ddubb.io" title="ddubb.io" alt="ddubb dot i o , website link">Here</a>
                                                                   </strong>
                                                        </h5>
